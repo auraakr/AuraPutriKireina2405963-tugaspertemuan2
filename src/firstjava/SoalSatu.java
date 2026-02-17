@@ -16,7 +16,7 @@ public class SoalSatu {
         System.out.print("angka 2: ");
         int angka2 = myObj.nextInt();
         
-        System.out.print("anga 3: ");
+        System.out.print("angka 3: ");
         int angka3 = myObj.nextInt();
         
         // hasil
